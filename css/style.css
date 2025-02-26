@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+
+body{
+    background-color: fuchsia;
+    color: aqua;
+    background-image: url("../img/man.png");
+}
+
+h1{
+    background-color: fuchsia;
+    width: 40%;
+    font-family: "Homemade Apple", serif;
+    font-weight: 400;
+    font-style: normal;
+}
